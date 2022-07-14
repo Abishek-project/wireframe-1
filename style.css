@@ -1,0 +1,52 @@
+.navbar-nav
+{
+    margin-left: auto;
+}
+.img{
+    margin-right: 10px;
+}
+body{
+ background-image:linear-gradient(to right, #8360c3, #2ebf91);
+}
+.size{
+ height:450px;  
+ width:1000px;  
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+ border-radius: 25px; 
+ 
+}
+.alg{
+    
+    padding-top: 50px;
+    text-align:center;
+}
+.mobile{
+    height:350px;  
+ width:400px; 
+ border-radius: 25px; 
+ 
+}
+.para{
+    font-weight:bold;
+    font-size: larger;
+    margin-top: 35px;
+    padding: 10px;
+    text-align:justify;
+
+}
+.ip{
+    text-align:justify;
+    font-size:15px;
+}
+.address{
+    text-align: center;
+    padding-bottom: 3%;
+}
+.pad{
+    padding: 3% 5%;
+}
+.social{
+    margin: 20px 10px;
+}
